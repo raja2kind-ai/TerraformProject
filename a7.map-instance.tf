@@ -4,6 +4,6 @@ variable "cartypes" {
   default = {
     "audi"     = "vwg",   #1 core processor and 1 Gb of RAM
     "bentley"  = "vwg",    #2 core 4 GB RAM
-    "bmw"      = "vwg",    #2 core 4 GB RAM
+   # "bmw"      = "vwg",    #2 core 4 GB RAM
   }
 }
